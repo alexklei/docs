@@ -12,7 +12,7 @@ ABS(mathematical expression)
 
 where **mathematical expression** can be any character(s) that evaluate to a numeric value.
 
-An example of it's use is as:
+An example of its use is as:
 
 ```
 positive_var = ABS(20 - 30 )
